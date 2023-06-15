@@ -40,7 +40,7 @@ Ou [Acesse o Spotfy](httpss://spotfy.com)
 ### Caixas de sheck
 
 
-- []Fazer a tela de login
+- [x]Fazer a tela de login
 - []Fazer a tela de calculo
 - []Criar tela de histórico
 
